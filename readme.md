@@ -17,4 +17,4 @@ Label the images with the labelimg tool and store the image in a folder.
 6. Now open google colab and rename the notebook.In the edit tab ---> Notebook settings ---> Change to GPU.
 7. Now follow the Notebook which is given in the link 
 8. After the training completed.The custom models are saved in the backup folder.
-9. To test the trained model another notebook named yolotesting in the link is given.
+9. To test the trained model another notebook named yolotesting in the link is given https://github.com/Dharani1008/Yolov3_tutorial..
